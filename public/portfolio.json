@@ -1,0 +1,237 @@
+[
+    {
+      "id": 1,
+      "title": "E-Commerce Website",
+      "category": "Website",
+    "image": "https://i.ibb.co.com/nNZFcQgn/ux1.png",
+      "description": "A fully responsive and modern e-commerce website with seamless checkout functionality."
+    },
+    {
+      "id": 2,
+      "title": "Corporate Business Website",
+      "category": "Website",
+      "image": "https://i.ibb.co.com/nNZFcQgn/ux1.png",
+      "description": "A clean and professional business website designed for a corporate brand."
+    },
+    {
+      "id": 3,
+      "title": "Travel Agency UI/UX",
+      "category": "UI/UX",
+      "image": "https://i.ibb.co.com/nNZFcQgn/ux1.png",
+      "description": "A user-friendly UI/UX design for a travel agency booking platform."
+    },
+    {
+      "id": 4,
+      "title": "Real Estate Landing Page",
+      "category": "Website",
+      "image": "https://i.ibb.co.com/cStktxqN/ux4.png",
+      "description": "A high-converting real estate landing page with lead capture forms."
+    },
+    {
+      "id": 5,
+      "title": "Mobile App UI for Fitness",
+      "category": "UI/UX",
+      "image": "https://i.ibb.co.com/W4g9Sn36/ux2.png",
+      "description": "A sleek and engaging UI design for a fitness mobile application."
+    },
+    {
+      "id": 6,
+      "title": "SEO for Tech Startup",
+      "category": "SEO",
+      "image": "https://i.ibb.co.com/cStktxqN/ux4.png",
+      "description": "Optimized a tech startup's website, improving its ranking on Google."
+    },
+    {
+      "id": 7,
+      "title": "SEO for Local Business",
+      "category": "SEO",
+      "image": "https://i.ibb.co.com/cStktxqN/ux4.png",
+      "description": "Boosted organic traffic for a local business using advanced SEO strategies."
+    },
+    {
+      "id": 8,
+      "title": "Minimalist Logo for Startup",
+      "category": "Logo Design",
+      "image": "https://i.ibb.co.com/cStktxqN/ux4.png",
+      "description": "A modern and minimalist logo design for a tech startup."
+    },
+    {
+      "id": 9,
+      "title": "Creative Logo for Fashion Brand",
+      "category": "Logo Design",
+      "image": "https://i.ibb.co.com/cStktxqN/ux4.png",
+      "description": "A unique and stylish logo design for a fashion brand."
+    },
+    {
+      "id": 10,
+      "title": "Restaurant Banner Design",
+      "category": "Banner Design",
+      "image": "https://i.ibb.co.com/cStktxqN/ux4.png",
+      "description": "An attractive banner design for a restaurant promotional campaign."
+    },
+    {
+      "id": 11,
+      "title": "Facebook Ad Banner for E-Commerce",
+      "category": "Banner Design",
+      "image": "https://i.ibb.co.com/cStktxqN/ux4.png",
+      "description": "A high-converting Facebook ad banner for an online store."
+    },
+    {
+      "id": 12,
+      "title": "Google Ads Campaign for SaaS",
+      "category": "Google Ads",
+      "image": "https://i.ibb.co.com/cStktxqN/ux4.png",
+      "description": "A Google Ads campaign that increased conversions for a SaaS product."
+    },
+    {
+      "id": 13,
+      "title": "UI/UX for Education Platform",
+      "category": "UI/UX",
+      "image": "https://i.ibb.co.com/bgqmTD0d/ux3.png",
+      "description": "A clean and intuitive UI/UX design for an online education platform."
+    },
+    {
+      "id": 14,
+      "title": "SEO Optimization for Blog",
+      "category": "SEO",
+      "image": "https://i.ibb.co.com/50pjChk/ux-7.png",
+      "description": "Optimized a blog for better search engine visibility and traffic growth."
+    },
+    {
+      "id": 15,
+      "title": "Dark Mode Website UI",
+      "category": "UI/UX",
+      "image": "https://i.ibb.co.com/cStktxqN/ux4.png",
+      "description": "A modern and visually appealing dark-mode UI design for a tech website."
+    },
+    {
+      "id": 16,
+      "title": "Healthcare App UI/UX",
+      "category": "UI/UX",
+      "image": "https://i.ibb.co.com/DfDgrtYq/ux5.png",
+      "description": "A user-friendly healthcare app UI/UX focused on easy navigation."
+    },
+    {
+      "id": 17,
+      "title": "Google Ads for Local Gym",
+      "category": "Google Ads",
+      "image": "https://i.ibb.co.com/cStktxqN/ux4.png",
+      "description": "An optimized Google Ads campaign that boosted memberships for a local gym."
+    },
+    {
+      "id": 18,
+      "title": "SEO for Fashion E-Commerce",
+      "category": "SEO",
+      "image": "https://i.ibb.co.com/50pjChk/ux-7.png",
+      "description": "An SEO strategy that improved rankings and sales for a fashion store."
+    },
+    {
+      "id": 19,
+      "title": "E-Learning Platform UI",
+      "category": "UI/UX",
+      "image": "https://i.ibb.co.com/4nBZTqKj/ux6.png",
+      "description": "A user-friendly UI for an online learning management system."
+    },
+    {
+      "id": 20,
+      "title": "Google Ads for Digital Marketing Agency",
+      "category": "Google Ads",
+      "image": "https://i.ibb.co.com/cStktxqN/ux4.png",
+      "description": "A targeted Google Ads campaign for a digital marketing agency."
+    },
+    {
+      "id": 21,
+      "title": "Website for Law Firm",
+      "category": "Website",
+      "image": "https://i.ibb.co.com/cStktxqN/ux4.png",
+      "description": "A professional and elegant website for a law firm."
+    },
+    {
+      "id": 22,
+      "title": "SEO for Medical Clinic",
+      "category": "SEO",
+      "image": "https://i.ibb.co.com/cStktxqN/ux4.png",
+      "description": "Increased local search visibility for a medical clinic using SEO."
+    },
+    {
+      "id": 23,
+      "title": "Sports Brand Logo",
+      "category": "Logo Design",
+      "image": "https://i.ibb.co.com/50pjChk/ux-7.png",
+      "description": "A bold and energetic logo design for a sports brand."
+    },
+    {
+      "id": 24,
+      "title": "Google Ads for Online Courses",
+      "category": "Google Ads",
+      "image": "https://i.ibb.co.com/50pjChk/ux-7.png",
+      "description": "An effective Google Ads campaign to promote online courses."
+    },
+    {
+      "id": 25,
+      "title": "Car Rental Website",
+      "category": "Website",
+      "image": "https://i.ibb.co.com/50pjChk/ux-7.png",
+      "description": "A user-friendly and functional website for a car rental service."
+    },
+    {
+      "id": 26,
+      "title": "Tech Conference Banner Design",
+      "category": "Banner Design",
+    "image": "https://i.ibb.co.com/dJKQ2Kzc/ux8.png",
+      "description": "An engaging banner for a tech conference marketing campaign."
+    },
+    {
+      "id": 27,
+      "title": "Beauty Salon Logo",
+      "category": "Logo Design",
+   "image": "https://i.ibb.co.com/dJKQ2Kzc/ux8.png",
+      "description": "A stylish and elegant logo design for a beauty salon."
+    },
+    {
+      "id": 28,
+      "title": "UI/UX for Mobile Banking App",
+      "category": "UI/UX",
+      "image": "https://i.ibb.co.com/50pjChk/ux-7.png",
+      "description": "A sleek and intuitive UI/UX design for a mobile banking application."
+    }, {
+      "id": 282,
+      "title": "UI/UX for Mobile Banking App",
+      "category": "UI/UX",
+      "image": "https://i.ibb.co.com/dJKQ2Kzc/ux8.png",
+      "description": "A sleek and intuitive UI/UX design for a mobile banking application."
+    },{
+      "id": 283,
+      "title": "UI/UX for Mobile Banking App",
+      "category": "UI/UX",
+      "image": "https://i.ibb.co.com/dJKQ2Kzc/ux8.png",
+      "description": "A sleek and intuitive UI/UX design for a mobile banking application."
+    },{
+      "id": 282,
+      "title": "UI/UX for Mobile Banking App",
+      "category": "UI/UX",
+      "image": "https://i.ibb.co.com/dJKQ2Kzc/ux8.png",
+      "description": "A sleek and intuitive UI/UX design for a mobile banking application."
+    },{
+      "id": 282,
+      "title": "UI/UX for Mobile Banking App",
+      "category": "UI/UX",
+      "image": "https://i.ibb.co.com/dJKQ2Kzc/ux8.png",
+      "description": "A sleek and intuitive UI/UX design for a mobile banking application."
+    },
+    {
+      "id": 29,
+      "title": "SEO for Travel Blog",
+      "category": "SEO",
+      "image": "https://i.ibb.co.com/50pjChk/ux-7.png",
+      "description": "Implemented SEO strategies to boost traffic for a travel blog."
+    },
+    {
+      "id": 30,
+      "title": "Facebook Ad Banner for Event",
+      "category": "Banner Design",
+      "image": "https://i.ibb.co.com/50pjChk/ux-7.png",
+      "description": "A visually appealing Facebook ad banner for an upcoming event."
+    }
+  ]
+  

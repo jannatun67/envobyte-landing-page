@@ -1,0 +1,171 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/nq7GTcSv/wordpress.png",
+      "title": "WordPress Website",
+      "subTitle": "Design & Development",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "Website"
+    },
+     {
+      "id": 11,
+      "image": "https://i.ibb.co.com/zhV7BVJM/content.png",
+      "title": "Content Writing",
+      "subTitle": "For Entire Project",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "Website"
+    },  {
+      "id": 111,
+      "image": "https://i.ibb.co.com/dsx51q8C/seo.png",
+      "title": "Monthly SEO",
+      "subTitle": "Rank #1 o Google",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "Website"
+    },
+    {
+      "id": 2,
+      "image": "https://via.placeholder.com/150",
+      "title": "Dashboard UI Design",
+      "subTitle": "Modern and sleek UI/UX design",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "UI/UX"
+    },
+    {
+      "id": 3,
+      "image": "https://via.placeholder.com/150",
+      "title": "SEO Optimization",
+      "subTitle": "Boost your website ranking",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "SEO"
+    },
+    {
+      "id": 4,
+      "image": "https://via.placeholder.com/150",
+      "title": "Creative Logo",
+      "subTitle": "Unique logo design for brands",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "Logo Design"
+    },
+    {
+      "id": 5,
+      "image": "https://via.placeholder.com/150",
+      "title": "Facebook Banner",
+      "subTitle": "Attractive social media banner",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "Banner Design"
+    },
+    {
+      "id": 6,
+      "image": "https://via.placeholder.com/150",
+      "title": "Google Ads Campaign",
+      "subTitle": "Effective ad management",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "Google Ads"
+    },
+    {
+      "id": 7,
+      "image": "https://via.placeholder.com/150",
+      "title": "Portfolio Website",
+      "subTitle": "Personal portfolio design",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "Website"
+    },
+    {
+      "id": 8,
+      "image": "https://via.placeholder.com/150",
+      "title": "Mobile App UI Design",
+      "subTitle": "Responsive and user-friendly mobile app design",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "UI/UX"
+    },
+    {
+      "id": 9,
+      "image": "https://via.placeholder.com/150",
+      "title": "E-commerce Website",
+      "subTitle": "Full-fledged e-commerce development",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "Website"
+    },
+    {
+      "id": 10,
+      "image": "https://via.placeholder.com/150",
+      "title": "Blog Website",
+      "subTitle": "Custom blog setup and design",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "Website"
+    },
+  
+    {
+      "id": 12,
+      "image": "https://via.placeholder.com/150",
+      "title": "Landing Page Design",
+      "subTitle": "Attractive and converting landing page",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "UI/UX"
+    },
+    {
+      "id": 13,
+      "image": "https://via.placeholder.com/150",
+      "title": "Email Template Design",
+      "subTitle": "Responsive email templates",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "Email Marketing"
+    },
+    {
+      "id": 14,
+      "image": "https://via.placeholder.com/150",
+      "title": "Web App Development",
+      "subTitle": "Custom web applications",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "Web Development"
+    },
+    {
+      "id": 15,
+      "image": "https://via.placeholder.com/150",
+      "title": "Mobile App Development",
+      "subTitle": "Custom mobile applications",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "App Development"
+    },
+    {
+      "id": 16,
+      "image": "https://via.placeholder.com/150",
+      "title": "Brand Identity Design",
+      "subTitle": "Complete branding solution",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "Logo Design"
+    },
+    {
+      "id": 17,
+      "image": "https://via.placeholder.com/150",
+      "title": "Social Media Marketing",
+      "subTitle": "Effective marketing strategies",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "Marketing"
+    },
+    {
+      "id": 18,
+      "image": "https://via.placeholder.com/150",
+      "title": "Content Management",
+      "subTitle": "Efficient content strategies",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "Content"
+    },
+    {
+      "id": 19,
+      "image": "https://via.placeholder.com/150",
+      "title": "Logo Redesign",
+      "subTitle": "Refreshing existing logos",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "Logo Design"
+    },
+    {
+      "id": 20,
+      "image": "https://via.placeholder.com/150",
+      "title": "Website Maintenance",
+      "subTitle": "Ongoing website support and maintenance",
+      "portfolio": "https://www.breakoutprop.com/",
+      "category": "Website"
+    }
+  ]
+  

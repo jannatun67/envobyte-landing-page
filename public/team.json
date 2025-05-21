@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Mr Anik",
+        "role": "Backend Developer",
+        "image": "https://i.ibb.co.com/6SjtcxQ/member-1.png"
+    },
+    {
+        "id": 2,
+        "name": "Mr Shahed",
+        "role": "Frontend Developer",
+        "image": "https://i.ibb.co.com/0RJTGF2Y/member-2.png"
+    },
+    {
+        "id": 3,
+        "name": "Mr Mainul Islam",
+        "role": "SEO Expert",
+        "image": "https://i.ibb.co.com/mZTwMgL/member-3.png"
+    },
+    {
+        "id": 4,
+        "name": "Mr Hasib",
+        "role": "Content Writer",
+        "image": "https://i.ibb.co.com/wrjTHQ36/member-4.png"
+    },
+    {
+        "id": 5,
+        "name": "Mr Anik",
+        "role": "Backend Developer",
+        "image": "https://i.ibb.co.com/6SjtcxQ/member-1.png"
+    },
+    {
+        "id": 6,
+        "name": "Mr Shahed",
+        "role": "Frontend Developer",
+        "image": "https://i.ibb.co.com/0RJTGF2Y/member-2.png"
+    }
+]

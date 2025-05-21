@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "rating": 5,
+        "review": "Fantastic service! Highly recommended for quality work and great communication.",
+        "clientName": "John Doe",
+        "clientImage": "https://i.ibb.co.com/NdHwhnr1/client-1.png",
+        "company": "Upwork",
+        "companyLogo": "https://i.ibb.co.com/3mk56d0y/upwork.png"
+    },
+    {
+        "id": 2,
+        "rating": 5,
+        "review": "Amazing experience, the work was top-notch and delivered on time!",
+        "clientName": "Jane Smith",
+        "clientImage": "https://i.ibb.co.com/84d9BW9v/client-2.png",
+        "company": "Fiverr",
+        "companyLogo": "https://i.ibb.co.com/3mYBq333/fiverr.png"
+    },
+    {
+        "id": 3,
+        "rating": 5,
+        "review": "Great collaboration! Would love to work again.",
+        "clientName": "Robert Brown",
+        "clientImage": "https://i.ibb.co.com/Z1WWz4TM/client-3.png",
+        "company": "Upwork",
+        "companyLogo": "https://i.ibb.co.com/3mk56d0y/upwork.png"
+    },
+    {
+        "id": 4,
+        "rating": 5,
+        "review": "Fantastic service! Highly recommended for quality work and great communication.",
+        "clientName": "John Doe",
+        "clientImage": "https://i.ibb.co.com/NdHwhnr1/client-1.png",
+        "company": "Fiverr",
+        "companyLogo": "https://i.ibb.co.com/3mYBq333/fiverr.png"
+    },
+    {
+        "id": 5,
+        "rating": 5,
+        "review": "Amazing experience, the work was top-notch and delivered on time!",
+        "clientName": "Jane Smith",
+        "clientImage": "https://i.ibb.co.com/84d9BW9v/client-2.png",
+        "company": "Upwork",
+        "companyLogo": "https://i.ibb.co.com/3mk56d0y/upwork.png"
+    },
+    {
+        "id": 6,
+        "rating": 5,
+        "review": "Great collaboration! Would love to work again.",
+        "clientName": "Robert Brown",
+        "clientImage": "https://i.ibb.co.com/Z1WWz4TM/client-3.png",
+        "company": "Fiverr",
+        "companyLogo": "https://i.ibb.co.com/3mYBq333/fiverr.png"
+    },
+    {
+        "id": 3,
+        "rating": 5,
+        "review": "Great collaboration! Would love to work again.",
+        "clientName": "Robert Brown",
+        "clientImage": "https://i.ibb.co.com/Z1WWz4TM/client-3.png",
+        "company": "Upwork",
+        "companyLogo": "https://i.ibb.co.com/3mk56d0y/upwork.png"
+    },
+    {
+        "id": 4,
+        "rating": 5,
+        "review": "Fantastic service! Highly recommended for quality work and great communication.",
+        "clientName": "John Doe",
+        "clientImage": "https://i.ibb.co.com/NdHwhnr1/client-1.png",
+        "company": "Fiverr",
+        "companyLogo": "https://i.ibb.co.com/3mYBq333/fiverr.png"
+    },
+    {
+        "id": 5,
+        "rating": 5,
+        "review": "Amazing experience, the work was top-notch and delivered on time!",
+        "clientName": "Jane Smith",
+        "clientImage": "https://i.ibb.co.com/84d9BW9v/client-2.png",
+        "company": "Upwork",
+        "companyLogo": "https://i.ibb.co.com/3mk56d0y/upwork.png"
+    }
+]
